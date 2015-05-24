@@ -2,7 +2,6 @@
 # it's more efficient to cache the inverse in memory which is what 
 # the makeCacheMatrix() and cacheSolve() functions will perform
 
-
 # makeCacheMatrix() will set & get the value of the matrix and
 # then set & get the value of the inverse of the matrix
 # It will return the list of the functions
